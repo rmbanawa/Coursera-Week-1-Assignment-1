@@ -1,16 +1,12 @@
-.container1{
-    width: 50%;
-  }
-  .footer{
-    background-color: #FBFFB2;
-  }
-  
-  .jumbotron{
-    background-color: #F7FC9B;
-  }
-  hr.style2 {
-      border-top: 3px double #8c8b8b;
-  }
-  .container1{
-    width: 50%;
-  }
+
+.footer {
+  background-color: #FBFFB2;
+}
+
+.jumbotron {
+  background-color: #F7FC9B;
+}
+
+hr.style2 {
+  border-top: 3px double #8c8b8b;
+}
